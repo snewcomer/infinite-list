@@ -1,0 +1,6 @@
+<section>
+  <h2>Lazy Load Artwork</h2>
+
+  <%= live_render(@conn, InfiniteListWeb.ArtworkLive) %>
+</section>
+
